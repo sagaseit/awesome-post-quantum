@@ -21,6 +21,10 @@ USA:
 * [NSA PQC FAQ](https://media.defense.gov/2021/Aug/04/2002821837/-1/-1/1/Quantum_FAQs_20210804.PDF)
 * [NIST and NCCoE's Migration to PQC](https://www.nccoe.nist.gov/sites/default/files/2022-07/pqc-migration-project-description-final.pdf)
 
+EU:
+
+* [A Coordinated Implementation Roadmap for the Transition to Post-Quantum Cryptography](https://digital-strategy.ec.europa.eu/en/library/coordinated-implementation-roadmap-transition-post-quantum-cryptography)
+
 South Korea:
 
 * [KpqC Competition](https://kpqc.or.kr/competition_02.html)
@@ -46,6 +50,11 @@ Survey papers:
 * [Post-Quantum Cryptography](https://www.researchgate.net/profile/Nicolas-Sendrier-2/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf) by Daniel J. Bernstein, Johannes Buchmann and Erik Dahmen
 * [Post-quantum cryptography---dealing with the fallout of physics success](https://eprint.iacr.org/2017/314) by Daniel J. Bernstein and Tanja Lange
 * [The Learning with Errors Problem](https://cims.nyu.edu/~regev/papers/lwesurvey.pdf) by Oded Regev
+
+## Recommendations for Organizations
+
+* [Post-Quantum Cryptography 101: Why Your Organization Needs to Pay Attention](https://terraquantum.swiss/news/post-quantum-cryptography-101-why-your-organization-needs-to-pay-attention/)
+* [Postkvantová kryptografie v protokolu TLS: jak nasadit vše potřebné už dnes](https://www.root.cz/clanky/postkvantova-kryptografie-v-protokolu-tls-jak-nasadit-vse-potrebne-uz-dnes/#h26) by Jakub Anderka(CZ)
 
 
 ## Software Projects
