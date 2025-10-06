@@ -58,7 +58,7 @@ Survey papers:
 
 
 ## Software Projects
-
+* [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit)
 * [aws/s2n-tls](https://github.com/aws/s2n-tls/tree/main/pq-crypto)
 * [kudelskisecurity/crystals-go](https://github.com/kudelskisecurity/crystals-go)
 * [Microsoft/PQCrypto-LWEKE](https://github.com/Microsoft/PQCrypto-LWEKE) (FrodoKEM)
